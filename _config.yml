@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: https://chojunehee.github.io/
 baseurl: # the subpath of your site, e.g. /blog
-title: S
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: ~ JunHee's Blog ~
+description: "성균관대학교 NLP연구실에서 연구중..."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
