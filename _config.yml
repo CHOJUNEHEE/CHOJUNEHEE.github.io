@@ -24,7 +24,7 @@ sass:
 url: https://chojunehee.github.io/
 baseurl: # the subpath of your site, e.g. /blog
 title: ~ JunHee's Blog ~
-description: "성균관대학교 NLP연구실에서 연구중..."
+description: "성균관대학교 NLP연구실에서 연구중입니다..."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
