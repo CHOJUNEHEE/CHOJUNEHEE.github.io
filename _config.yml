@@ -23,7 +23,7 @@ sass:
 # Site Data
 url: https://chojunehee.github.io/
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
+title: S
 description: "A gem-based responsive simple texture styled Jekyll theme."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
@@ -47,8 +47,8 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>안녕하세요.</h1>
-  section2: <h2>조준희 블로그입니다.</h2>
+  section1: <h1>WELCOME!</h1>
+  section2: <h2>It's Junhee's Blog</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/CHOJUNEHEE" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
